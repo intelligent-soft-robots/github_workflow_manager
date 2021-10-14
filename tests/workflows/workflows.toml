@@ -1,0 +1,9 @@
+[python_flake8]
+file = ["flake8.yml", "flake8-problem-matcher.json"]
+language = "python"
+
+[git_fixup]
+file = "git.yml"
+
+[doesnotexist]
+file = "doesnotexist.yml"
