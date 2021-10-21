@@ -1,4 +1,4 @@
-name: PR TODO checks
+name: TODO checks
 
 on: pull_request
 
